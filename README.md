@@ -1,2 +1,2 @@
 # Catering-website
-This is my 1st short web site containg basic html and css 
+This is my 1st mini web site containg basic html and css 
